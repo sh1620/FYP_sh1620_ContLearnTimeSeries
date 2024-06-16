@@ -26,3 +26,6 @@ To train the generic supervised classifier, comment out the lines:
         for param in self.encoder.parameters():
             param.requires_grad = False"
 Within the LinearProbeClassifier class.
+
+# Note
+The original Electronic Motor Dataset files are too large, even when compressed, to be uploaded to GitHub though the processed files are present and have been uploaded

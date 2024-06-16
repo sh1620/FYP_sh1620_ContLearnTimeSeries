@@ -1,0 +1,1 @@
+The torch files from the preprocessing scripts will be saved here. Create the respective folder for the dataset so for example the test.pt, train.pt, and val.pt file of ECG200 will be saved in ECG200/train.pt
